@@ -10,3 +10,15 @@ D:\Cursos C#\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.cspro
 D:\Cursos C#\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.CoreCompileInputs.cache
 D:\Cursos C#\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.exe
 D:\Cursos C#\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.pdb
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe.config
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.pdb
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csprojAssemblyReference.cache
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Form1.resources
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.frmDepartamentos.resources
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.frmEmpleados.resources
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Properties.Resources.resources
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.GenerateResource.cache
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.CoreCompileInputs.cache
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.exe
+D:\Fuentes\Cursos C Sharp\VS2019\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.pdb

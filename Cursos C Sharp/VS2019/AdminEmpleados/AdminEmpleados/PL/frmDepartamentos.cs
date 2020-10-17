@@ -19,7 +19,7 @@ namespace AdminEmpleados.PL
         {
             oDepartamentosDAL = new DepartamentosDAL();
             InitializeComponent();
-            dgvDepartamentos.DataSource = oDepartamentosDAL.MostrarDepartamentos().Tables[0];
+            LlenarGrid();
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -30,6 +30,7 @@ namespace AdminEmpleados.PL
             MessageBox.Show("Conectado..." );
             // clase DAL departamentos ... objeto que tiene la inforacion del GUI
             oDepartamentosDAL.Agregar(RecuperarInformacion());
+            LlenarGrid();
         }
         private DepartamentoBLL RecuperarInformacion()
         {
@@ -38,6 +39,29 @@ namespace AdminEmpleados.PL
             oDepartamentoBLL.Id = Id;
             oDepartamentoBLL.Departamento = txtDepartamento.Text;
             return oDepartamentoBLL;
+        }
+
+        private void Seleccionar(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            int indice = e.RowIndex;
+            txtId.Text = dgvDepartamentos.Rows[indice].Cells[0].Value.ToString();
+            txtDepartamento.Text = dgvDepartamentos.Rows[indice].Cells[1].Value.ToString();
+         }
+
+        private void btnBorrar_Click(object sender, EventArgs e)
+        {
+            oDepartamentosDAL.Eliminar(RecuperarInformacion());
+            LlenarGrid();
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            oDepartamentosDAL.Modificar(RecuperarInformacion());
+            LlenarGrid();
+        }
+        public void LlenarGrid()
+        {
+            dgvDepartamentos.DataSource = oDepartamentosDAL.MostrarDepartamentos().Tables[0];
         }
     }
 }
