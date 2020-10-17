@@ -1,0 +1,7 @@
+D:\Cursos C#\VS2019\MiSoap\MiSoap\bin\MiSoap.dll.config
+D:\Cursos C#\VS2019\MiSoap\MiSoap\bin\MiSoap.dll
+D:\Cursos C#\VS2019\MiSoap\MiSoap\bin\MiSoap.pdb
+D:\Cursos C#\VS2019\MiSoap\MiSoap\obj\Debug\MiSoap.csprojAssemblyReference.cache
+D:\Cursos C#\VS2019\MiSoap\MiSoap\obj\Debug\MiSoap.csproj.CoreCompileInputs.cache
+D:\Cursos C#\VS2019\MiSoap\MiSoap\obj\Debug\MiSoap.dll
+D:\Cursos C#\VS2019\MiSoap\MiSoap\obj\Debug\MiSoap.pdb

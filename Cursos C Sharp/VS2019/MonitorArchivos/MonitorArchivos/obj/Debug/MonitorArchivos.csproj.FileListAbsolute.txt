@@ -1,0 +1,10 @@
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\bin\Debug\MonitorArchivos.exe.config
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\bin\Debug\MonitorArchivos.exe
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\bin\Debug\MonitorArchivos.pdb
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\obj\Debug\MonitorArchivos.csprojAssemblyReference.cache
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\obj\Debug\MonitorArchivos.Form1.resources
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\obj\Debug\MonitorArchivos.Properties.Resources.resources
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\obj\Debug\MonitorArchivos.csproj.GenerateResource.cache
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\obj\Debug\MonitorArchivos.csproj.CoreCompileInputs.cache
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\obj\Debug\MonitorArchivos.exe
+D:\Cursos C#\VS2019\MonitorArchivos\MonitorArchivos\obj\Debug\MonitorArchivos.pdb

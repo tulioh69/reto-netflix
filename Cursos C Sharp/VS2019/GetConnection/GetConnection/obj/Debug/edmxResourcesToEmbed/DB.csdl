@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ParametrosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DiasFeriados">
+    <Key>
+      <PropertyRef Name="idDiaFeriado" />
+    </Key>
+    <Property Name="idDiaFeriado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dsDiaFeriado" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="feDia" Type="DateTime" Precision="3" />
+    <Property Name="esActivo" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="ParametrosEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DiasFeriados" EntityType="Self.DiasFeriados" />
+  </EntityContainer>
+</Schema>

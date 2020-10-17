@@ -1,0 +1,9 @@
+D:\Cursos C#\VS2017\Appset\Appset\bin\Debug\Appset.exe.config
+D:\Cursos C#\VS2017\Appset\Appset\bin\Debug\Appset.exe
+D:\Cursos C#\VS2017\Appset\Appset\bin\Debug\Appset.pdb
+D:\Cursos C#\VS2017\Appset\Appset\obj\Debug\Appset.csprojResolveAssemblyReference.cache
+D:\Cursos C#\VS2017\Appset\Appset\obj\Debug\Appset.Form1.resources
+D:\Cursos C#\VS2017\Appset\Appset\obj\Debug\Appset.Properties.Resources.resources
+D:\Cursos C#\VS2017\Appset\Appset\obj\Debug\Appset.csproj.GenerateResource.Cache
+D:\Cursos C#\VS2017\Appset\Appset\obj\Debug\Appset.exe
+D:\Cursos C#\VS2017\Appset\Appset\obj\Debug\Appset.pdb

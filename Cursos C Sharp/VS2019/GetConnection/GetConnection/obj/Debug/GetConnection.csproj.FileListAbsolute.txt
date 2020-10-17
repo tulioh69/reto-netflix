@@ -1,0 +1,12 @@
+D:\Cursos C#\VS2019\GetConnection\GetConnection\bin\Debug\GetConnection.exe.config
+D:\Cursos C#\VS2019\GetConnection\GetConnection\bin\Debug\GetConnection.exe
+D:\Cursos C#\VS2019\GetConnection\GetConnection\bin\Debug\GetConnection.pdb
+D:\Cursos C#\VS2019\GetConnection\GetConnection\bin\Debug\EntityFramework.dll
+D:\Cursos C#\VS2019\GetConnection\GetConnection\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cursos C#\VS2019\GetConnection\GetConnection\bin\Debug\EntityFramework.xml
+D:\Cursos C#\VS2019\GetConnection\GetConnection\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cursos C#\VS2019\GetConnection\GetConnection\obj\Debug\GetConnection.csprojAssemblyReference.cache
+D:\Cursos C#\VS2019\GetConnection\GetConnection\obj\Debug\GetConnection.csproj.CoreCompileInputs.cache
+D:\Cursos C#\VS2019\GetConnection\GetConnection\obj\Debug\GetConnection.csproj.CopyComplete
+D:\Cursos C#\VS2019\GetConnection\GetConnection\obj\Debug\GetConnection.exe
+D:\Cursos C#\VS2019\GetConnection\GetConnection\obj\Debug\GetConnection.pdb

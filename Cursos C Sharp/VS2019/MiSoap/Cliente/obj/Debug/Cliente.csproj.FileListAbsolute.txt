@@ -1,0 +1,10 @@
+D:\Cursos C#\VS2019\MiSoap\Cliente\bin\Debug\Cliente.exe.config
+D:\Cursos C#\VS2019\MiSoap\Cliente\bin\Debug\Cliente.exe
+D:\Cursos C#\VS2019\MiSoap\Cliente\bin\Debug\Cliente.pdb
+D:\Cursos C#\VS2019\MiSoap\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+D:\Cursos C#\VS2019\MiSoap\Cliente\obj\Debug\Cliente.Form1.resources
+D:\Cursos C#\VS2019\MiSoap\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\Cursos C#\VS2019\MiSoap\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\Cursos C#\VS2019\MiSoap\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\Cursos C#\VS2019\MiSoap\Cliente\obj\Debug\Cliente.exe
+D:\Cursos C#\VS2019\MiSoap\Cliente\obj\Debug\Cliente.pdb

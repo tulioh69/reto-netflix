@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ParametrosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DiasFeriados">
+    <Key>
+      <PropertyRef Name="idDiaFeriado" />
+    </Key>
+    <Property Name="idDiaFeriado" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="dsDiaFeriado" Type="nvarchar" MaxLength="100" />
+    <Property Name="feDia" Type="datetime" />
+    <Property Name="esActivo" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="ParametrosModelStoreContainer">
+    <EntitySet Name="DiasFeriados" EntityType="Self.DiasFeriados" Schema="Configuration" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

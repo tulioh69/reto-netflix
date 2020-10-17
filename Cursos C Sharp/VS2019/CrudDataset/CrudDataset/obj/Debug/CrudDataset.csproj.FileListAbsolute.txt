@@ -1,0 +1,11 @@
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\bin\Debug\CrudDataset.exe.config
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\bin\Debug\CrudDataset.exe
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\bin\Debug\CrudDataset.pdb
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\obj\Debug\CrudDataset.csprojAssemblyReference.cache
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\obj\Debug\CrudDataset.Form1.resources
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\obj\Debug\CrudDataset.Properties.Resources.resources
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\obj\Debug\CrudDataset.csproj.GenerateResource.cache
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\obj\Debug\CrudDataset.csproj.CoreCompileInputs.cache
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\obj\Debug\CrudDataset.exe
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\obj\Debug\CrudDataset.pdb
+D:\Cursos C#\VS2019\CrudDataset\CrudDataset\obj\Debug\CrudDataset.FrmPeople.resources
