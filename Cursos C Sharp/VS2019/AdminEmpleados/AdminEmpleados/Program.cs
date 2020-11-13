@@ -17,7 +17,7 @@ namespace AdminEmpleados
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmDepartamentos());
+            Application.Run(new frmEmpleados());
         }
     }
 }

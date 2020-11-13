@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CompensacionV01.exe" version="1.0.0.5" publicKeyToken="d325268331b0c8a1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CompensacionV01" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CompensacionV01.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CompensacionV01.exe" size="93648">
+      <assemblyIdentity name="CompensacionV01" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>AupRYN4LV10BjArQtk7Y02+1OVZ1Bz/Iaz3/KPlnrBQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CryptoConection.dll" size="6144">
+      <assemblyIdentity name="CryptoConection" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7MSyV18oywyW57dt/o4HdhWdr6s+9HyN9rLRNO4t/Gk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LumenWorks.Framework.IO.dll" size="37376">
+      <assemblyIdentity name="LumenWorks.Framework.IO" version="3.8.0.0" publicKeyToken="5AD3EA2F85776344" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>prlRr8eTYJm6ejlrPzPpjlAcr/r6QEavY+F7v9buRJk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Practices.EnterpriseLibrary.Common.dll" size="211632">
+      <assemblyIdentity name="Microsoft.Practices.EnterpriseLibrary.Common" version="6.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>11C2YSY678vpYZQtFcLcUH2mNhdIqOZUJpYydLV0Tuc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Practices.EnterpriseLibrary.Logging.dll" size="415408">
+      <assemblyIdentity name="Microsoft.Practices.EnterpriseLibrary.Logging" version="6.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>rRjyghPrxoWk5vOM6lSfhd6i5RAl9NCPZy784Sj/EF8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Utilities.Logs.dll" size="6144">
+      <assemblyIdentity name="Utilities.Logs" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>At1chCv/KySoM5i1l/zKt0zHihFz9TqWHq1A2iPmHpU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Utilities.Network.dll" size="11776">
+      <assemblyIdentity name="Utilities.Network" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>pBBcbpQaTiPYfY28K/1iAjjv3iFHQukV8aIL00lBovw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Utilities.Security.dll" size="5632">
+      <assemblyIdentity name="Utilities.Security" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>hg24HcQaO2LTxBTAfmgrRvzntvJlxr+ImIAWpbBbkrc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CompensacionV01.exe.config" size="6342">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MkKQ+tx+aN1klpZ2YF9kcbchxH/NoF47g36Ejf0KS/o=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=BAUSTRO\ue01000655" issuerKeyHash="fcf8e360ea16fefa7d58f3098f37b9351eded756" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>K7BqP9cUstF6ZwSa12ffynwMTp6hpbtz2w6AANPF4Ww=</DigestValue></Reference></SignedInfo><SignatureValue>mIt45bdku9LdmJUrgcNBiWxxQBYDgy1lnUkdEFznyPJJBCPK9Na6V+6XPuQD0g0kepJhBjFj/MccVAYJLn+A/jKDbGnHUyhU2dOkwr5vdj/5rupMhKENR4THkauKjgoMnkdaByOOKPmD0PO0bWiCh6gIkf1JMExa2Uj0Hzf+4mk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ya/0RwG7h6ZxkMCsjwHtD2nU0gb9sQTwusqCX7qae0hUw5Sy5ocdBUrvMBPQNZhYnvQtMVbK7V9FdsgVrMnN38ZoyRxIogjUmMzN+qmuPuwn2vWYgwMF8AtJ2q6utPZaCwRRbCKqYNNE0uw2Aveoj3nmjNGeg+kUotS0j4s1/LE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6ce1c5d300800edb73bba5a19e4e0c7ccadf67d79a04677ad1b214d73f6ab02b" Description="" Url=""><as:assemblyIdentity name="CompensacionV01.exe" version="1.0.0.5" publicKeyToken="d325268331b0c8a1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BAUSTRO\ue01000655</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+oY1V8g/3PgQktmxQYIArPT4ozuX2ttcMiEdjRVbALc=</DigestValue></Reference></SignedInfo><SignatureValue>vTaegy6hWSNrfGaSmlSqYyq2aiOpNGF6M1PQ/1diSJSwAweFluMnVLn/ui2lvC21sFsarICrZo6iWQLw8RRlKGGe75sKWVdXOkKwzktbzMCtzB6Pq6IuV65MSjvKU8AiJoFtmN8dv9KCjYdBR/s6/x6XE6aSUbXTApALQBHMcCI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ya/0RwG7h6ZxkMCsjwHtD2nU0gb9sQTwusqCX7qae0hUw5Sy5ocdBUrvMBPQNZhYnvQtMVbK7V9FdsgVrMnN38ZoyRxIogjUmMzN+qmuPuwn2vWYgwMF8AtJ2q6utPZaCwRRbCKqYNNE0uw2Aveoj3nmjNGeg+kUotS0j4s1/LE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQF9i9VOZYBolIrXwNWgp/5zANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAQgBBAFUAUwBUAFIATwBcAHUAZQAwADEAMAAwADAANgA1ADUwHhcNMjAwOTAzMjE0NDEwWhcNMjEwOTA0MDM0NDEwWjAvMS0wKwYDVQQDHiQAQgBBAFUAUwBUAFIATwBcAHUAZQAwADEAMAAwADAANgA1ADUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMmv9EcBu4emcZDArI8B7Q9p1NIG/bEE8LrKgl+6mntIVMOUsuaHHQVK7zAT0DWYWJ70LTFWyu1fRXbIFazJzd/GaMkcSKII1JjMzfqprj7sJ9r1mIMDBfALSdqurrT2WgsEUWwiqmDTRNLsNgL3qI955ozRnoPpFKLUtI+LNfyxAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAP0k0OMOHhPQrR/v72eBKk3vzmwAKW5ImhxdlxJldUZB5KnD1Nqf/PufC8ZJXX2WawRBmMYDdTilpTjPe03demXg5pElW/hHA3+Vvgn3JkAwpdGF9rgVV+Hyyv6u+lkQSqxb49fB18xb02g7pi2KQ3uo6y5JSvyFzj2kkq0azo0Y=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

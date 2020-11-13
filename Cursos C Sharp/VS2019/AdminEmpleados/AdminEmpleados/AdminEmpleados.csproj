@@ -123,5 +123,11 @@
   <ItemGroup>
     <None Include="Resources\3017912-24.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_wrench-screwdriver_299100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_user-id_285641.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

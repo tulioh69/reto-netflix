@@ -53,15 +53,16 @@
             // 
             this.txtId.Location = new System.Drawing.Point(69, 66);
             this.txtId.Name = "txtId";
+            this.txtId.ReadOnly = true;
             this.txtId.Size = new System.Drawing.Size(52, 20);
-            this.txtId.TabIndex = 1;
+            this.txtId.TabIndex = 2;
             // 
             // txtDepartamento
             // 
             this.txtDepartamento.Location = new System.Drawing.Point(161, 66);
             this.txtDepartamento.Name = "txtDepartamento";
             this.txtDepartamento.Size = new System.Drawing.Size(352, 20);
-            this.txtDepartamento.TabIndex = 2;
+            this.txtDepartamento.TabIndex = 1;
             // 
             // btnCancelar
             // 
@@ -73,9 +74,12 @@
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // dgvDepartamentos
             // 
+            this.dgvDepartamentos.AllowUserToAddRows = false;
+            this.dgvDepartamentos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvDepartamentos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDepartamentos.Location = new System.Drawing.Point(69, 181);
             this.dgvDepartamentos.Name = "dgvDepartamentos";
@@ -106,6 +110,7 @@
             // 
             // btnModificar
             // 
+            this.btnModificar.Enabled = false;
             this.btnModificar.Image = global::AdminEmpleados.Properties.Resources._285638_24;
             this.btnModificar.Location = new System.Drawing.Point(161, 108);
             this.btnModificar.Name = "btnModificar";

@@ -1,0 +1,9 @@
+D:\Fuentes\Cursos C Sharp\VS2019\TestEjemplo\TestEjemplo\bin\Debug\netcoreapp3.1\TestEjemplo.deps.json
+D:\Fuentes\Cursos C Sharp\VS2019\TestEjemplo\TestEjemplo\bin\Debug\netcoreapp3.1\TestEjemplo.dll
+D:\Fuentes\Cursos C Sharp\VS2019\TestEjemplo\TestEjemplo\bin\Debug\netcoreapp3.1\TestEjemplo.pdb
+D:\Fuentes\Cursos C Sharp\VS2019\TestEjemplo\TestEjemplo\obj\Debug\netcoreapp3.1\TestEjemplo.csprojAssemblyReference.cache
+D:\Fuentes\Cursos C Sharp\VS2019\TestEjemplo\TestEjemplo\obj\Debug\netcoreapp3.1\TestEjemplo.AssemblyInfoInputs.cache
+D:\Fuentes\Cursos C Sharp\VS2019\TestEjemplo\TestEjemplo\obj\Debug\netcoreapp3.1\TestEjemplo.AssemblyInfo.cs
+D:\Fuentes\Cursos C Sharp\VS2019\TestEjemplo\TestEjemplo\obj\Debug\netcoreapp3.1\TestEjemplo.csproj.CoreCompileInputs.cache
+D:\Fuentes\Cursos C Sharp\VS2019\TestEjemplo\TestEjemplo\obj\Debug\netcoreapp3.1\TestEjemplo.dll
+D:\Fuentes\Cursos C Sharp\VS2019\TestEjemplo\TestEjemplo\obj\Debug\netcoreapp3.1\TestEjemplo.pdb

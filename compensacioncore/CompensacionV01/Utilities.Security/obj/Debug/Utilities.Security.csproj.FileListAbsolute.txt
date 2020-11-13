@@ -1,0 +1,18 @@
+C:\Users\ue0100064k\source\repos\CompensacionV01\Utilities.Security\bin\Debug\Utilities.Security.dll.config
+C:\Users\ue0100064k\source\repos\CompensacionV01\Utilities.Security\bin\Debug\Utilities.Security.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\Utilities.Security\bin\Debug\Utilities.Security.pdb
+C:\Users\ue0100064k\source\repos\CompensacionV01\Utilities.Security\obj\Debug\Utilities.Security.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\Utilities.Security\obj\Debug\Utilities.Security.pdb
+C:\Users\ue0100064k\source\repos\CompensacionV01\Utilities.Security\obj\Debug\Utilities.Security.csprojResolveAssemblyReference.cache
+D:\docs public\_COMPENSACION_\CompensacionV01\Utilities.Security\bin\Debug\Utilities.Security.dll.config
+D:\docs public\_COMPENSACION_\CompensacionV01\Utilities.Security\bin\Debug\Utilities.Security.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\Utilities.Security\bin\Debug\Utilities.Security.pdb
+D:\docs public\_COMPENSACION_\CompensacionV01\Utilities.Security\obj\Debug\Utilities.Security.csprojResolveAssemblyReference.cache
+D:\docs public\_COMPENSACION_\CompensacionV01\Utilities.Security\obj\Debug\Utilities.Security.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\Utilities.Security\obj\Debug\Utilities.Security.pdb
+D:\_COMPARTIDA_\CompensacionV01\Utilities.Security\bin\Debug\Utilities.Security.dll.config
+D:\_COMPARTIDA_\CompensacionV01\Utilities.Security\bin\Debug\Utilities.Security.dll
+D:\_COMPARTIDA_\CompensacionV01\Utilities.Security\bin\Debug\Utilities.Security.pdb
+D:\_COMPARTIDA_\CompensacionV01\Utilities.Security\obj\Debug\Utilities.Security.dll
+D:\_COMPARTIDA_\CompensacionV01\Utilities.Security\obj\Debug\Utilities.Security.pdb
+D:\_COMPARTIDA_\CompensacionV01\Utilities.Security\obj\Debug\Utilities.Security.csprojResolveAssemblyReference.cache

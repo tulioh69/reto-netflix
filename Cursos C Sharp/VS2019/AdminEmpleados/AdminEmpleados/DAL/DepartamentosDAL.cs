@@ -24,16 +24,18 @@ namespace AdminEmpleados.DAL
             return conexion.ejecutarComandoSinRetornoDatos(SQLComando);
             //return conexion.ejecutarComandoSinRetornoDatos("INSERT INTO Departamentos (departamento) VALUES('"+oDepartamentosBLL.Departamento +"')");
         }
-        public int Modificar(DepartamentoBLL oDepartamentosBLL)
+        public bool Modificar(DepartamentoBLL oDepartamentosBLL)
         {
-            conexion.ejecutarComandoSinRetornoDatos("UPDATE Departamentos SET departamento='"+oDepartamentosBLL.Departamento+"'"+
-                "WHERE Id=" + oDepartamentosBLL.Id);
-            return 1;
+            SqlCommand SQLComando = new SqlCommand("UPDATE Departamentos SET departamento=@departamento WHERE Id=@Id");
+            SQLComando.Parameters.Add("@Id", SqlDbType.Int).Value = oDepartamentosBLL.Id;
+            SQLComando.Parameters.Add("@Departamento", SqlDbType.VarChar).Value = oDepartamentosBLL.Departamento;
+            return conexion.ejecutarComandoSinRetornoDatos(SQLComando);
         }
-        public int Eliminar(DepartamentoBLL oDepartamentosBLL)
+        public bool Eliminar(DepartamentoBLL oDepartamentosBLL)
         {
-            conexion.ejecutarComandoSinRetornoDatos("DELETE Departamentos WHERE Id=" + oDepartamentosBLL.Id);
-            return 1;
+            SqlCommand SQLComando = new SqlCommand("DELETE Departamentos WHERE Id=@Id");
+            SQLComando.Parameters.Add("@Id", SqlDbType.Int).Value = oDepartamentosBLL.Id;
+            return conexion.ejecutarComandoSinRetornoDatos(SQLComando);
         }
         public DataSet MostrarDepartamentos()
         {

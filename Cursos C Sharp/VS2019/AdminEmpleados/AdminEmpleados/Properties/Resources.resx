@@ -121,22 +121,28 @@
   <data name="285688-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\285688-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="285657-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\285657-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="3017912-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3017912-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="285638-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\285638-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="285641-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\285641-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="299100-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\299100-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="285641-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\285641-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="285657-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\285657-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="285651-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\285651-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="3017912-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3017912-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="iconfinder_wrench-screwdriver_299100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconfinder_wrench-screwdriver_299100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_user-id_285641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconfinder_user-id_285641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

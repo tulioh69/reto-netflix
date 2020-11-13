@@ -20,17 +20,15 @@ namespace AdminEmpleados.PL
             oDepartamentosDAL = new DepartamentosDAL();
             InitializeComponent();
             LlenarGrid();
+            LimpiarEntradas();
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            //instruccion GUI
-
-            ConexionDAL conexion = new ConexionDAL();
-            MessageBox.Show("Conectado..." );
             // clase DAL departamentos ... objeto que tiene la inforacion del GUI
             oDepartamentosDAL.Agregar(RecuperarInformacion());
             LlenarGrid();
+            LimpiarEntradas();
         }
         private DepartamentoBLL RecuperarInformacion()
         {
@@ -44,24 +42,52 @@ namespace AdminEmpleados.PL
         private void Seleccionar(object sender, DataGridViewCellMouseEventArgs e)
         {
             int indice = e.RowIndex;
-            txtId.Text = dgvDepartamentos.Rows[indice].Cells[0].Value.ToString();
-            txtDepartamento.Text = dgvDepartamentos.Rows[indice].Cells[1].Value.ToString();
-         }
+            dgvDepartamentos.ClearSelection();
+            if (indice >=0)
+            {
+                txtId.Text = dgvDepartamentos.Rows[indice].Cells[0].Value.ToString();
+                txtDepartamento.Text = dgvDepartamentos.Rows[indice].Cells[1].Value.ToString();
+
+                btnAgregar.Enabled = false;
+                btnModificar.Enabled = true;
+                btnBorrar.Enabled = true;
+                btnCancelar.Enabled = true;
+            }
+        }
 
         private void btnBorrar_Click(object sender, EventArgs e)
         {
             oDepartamentosDAL.Eliminar(RecuperarInformacion());
             LlenarGrid();
+            LimpiarEntradas();
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
             oDepartamentosDAL.Modificar(RecuperarInformacion());
             LlenarGrid();
+            LimpiarEntradas();
         }
         public void LlenarGrid()
         {
             dgvDepartamentos.DataSource = oDepartamentosDAL.MostrarDepartamentos().Tables[0];
+            dgvDepartamentos.Columns[0].HeaderText = "Id";
+            dgvDepartamentos.Columns[1].HeaderText = "Nombre Departamento";
+        }
+        public void LimpiarEntradas()
+        {
+            txtId.Text = "";
+            txtDepartamento.Text = "";
+
+            btnAgregar.Enabled = true;
+            btnModificar.Enabled = false;
+            btnBorrar.Enabled = false;
+            btnCancelar.Enabled = false;
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            LimpiarEntradas();
         }
     }
 }

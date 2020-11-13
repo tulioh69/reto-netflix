@@ -1,0 +1,77 @@
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.exe.config
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.exe
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.pdb
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Logs.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Security.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\CryptoConection.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Logs.pdb
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Security.pdb
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.CompAut.resources
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.Properties.Resources.resources
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.csproj.GenerateResource.cache
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.exe
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.pdb
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Network.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Network.pdb
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ue0100064k\source\repos\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.csprojResolveAssemblyReference.cache
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.exe.config
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.exe
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.pdb
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.exe
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.pdb
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\LumenWorks.Framework.IO.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Logs.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Network.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Security.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\CryptoConection.dll
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Logs.pdb
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Network.pdb
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Security.pdb
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\LumenWorks.Framework.IO.xml
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.csprojResolveAssemblyReference.cache
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.CompAut.resources
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.Properties.Resources.resources
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.csproj.GenerateResource.Cache
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.exe.manifest
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.application
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.exe.manifest
+D:\docs public\_COMPENSACION_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.application
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.exe.config
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.exe
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.pdb
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.exe.manifest
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.application
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.exe
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\CompensacionV01.pdb
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\LumenWorks.Framework.IO.dll
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Logs.dll
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Network.dll
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Security.dll
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\CryptoConection.dll
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Logs.pdb
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Network.pdb
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Utilities.Security.pdb
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\LumenWorks.Framework.IO.xml
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.csprojResolveAssemblyReference.cache
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.CompAut.resources
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.Properties.Resources.resources
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.csproj.GenerateResource.Cache
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.exe.manifest
+D:\_COMPARTIDA_\CompensacionV01\CompensacionV01\obj\Debug\CompensacionV01.application

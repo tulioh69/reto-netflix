@@ -28,35 +28,41 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnEmpleados = new System.Windows.Forms.Button();
+            this.btnDepartamentos = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btnEmpleados
             // 
-            this.button1.Location = new System.Drawing.Point(66, 67);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(106, 82);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Departamentos";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnEmpleados.Image = global::AdminEmpleados.Properties.Resources.iconfinder_user_id_285641;
+            this.btnEmpleados.Location = new System.Drawing.Point(219, 67);
+            this.btnEmpleados.Name = "btnEmpleados";
+            this.btnEmpleados.Size = new System.Drawing.Size(108, 82);
+            this.btnEmpleados.TabIndex = 1;
+            this.btnEmpleados.Text = "Empleados";
+            this.btnEmpleados.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnEmpleados.UseVisualStyleBackColor = true;
+            this.btnEmpleados.Click += new System.EventHandler(this.btnEmpleados_Click);
             // 
-            // button2
+            // btnDepartamentos
             // 
-            this.button2.Location = new System.Drawing.Point(219, 67);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(108, 82);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Empleados";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnDepartamentos.Image = global::AdminEmpleados.Properties.Resources.iconfinder_wrench_screwdriver_299100;
+            this.btnDepartamentos.Location = new System.Drawing.Point(66, 67);
+            this.btnDepartamentos.Name = "btnDepartamentos";
+            this.btnDepartamentos.Size = new System.Drawing.Size(106, 82);
+            this.btnDepartamentos.TabIndex = 0;
+            this.btnDepartamentos.Text = "Departamentos";
+            this.btnDepartamentos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnDepartamentos.UseVisualStyleBackColor = true;
+            this.btnDepartamentos.Click += new System.EventHandler(this.btnDepartamentos_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(421, 232);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnEmpleados);
+            this.Controls.Add(this.btnDepartamentos);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -65,8 +71,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnDepartamentos;
+        private System.Windows.Forms.Button btnEmpleados;
     }
 }
 

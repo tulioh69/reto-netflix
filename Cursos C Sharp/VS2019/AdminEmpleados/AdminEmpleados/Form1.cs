@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AdminEmpleados.PL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,18 @@ namespace AdminEmpleados
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btnDepartamentos_Click(object sender, EventArgs e)
+        {
+            frmDepartamentos formularioDepartamentos = new frmDepartamentos();
+            formularioDepartamentos.Show();
+        }
+
+        private void btnEmpleados_Click(object sender, EventArgs e)
+        {
+            frmEmpleados formularioEmpleados = new frmEmpleados();
+            formularioEmpleados.Show();
         }
     }
 }
