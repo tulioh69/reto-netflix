@@ -1,6 +1,0 @@
-D:\Cursos C#\VS2017\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\bin\Debug\ProgramacionOrientadaObjetos.exe.config
-D:\Cursos C#\VS2017\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\bin\Debug\ProgramacionOrientadaObjetos.exe
-D:\Cursos C#\VS2017\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\bin\Debug\ProgramacionOrientadaObjetos.pdb
-D:\Cursos C#\VS2017\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.csprojResolveAssemblyReference.cache
-D:\Cursos C#\VS2017\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.exe
-D:\Cursos C#\VS2017\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.pdb
