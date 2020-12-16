@@ -1,8 +1,21 @@
 <html>
     <head>
-        <title>Primer Script de JavaScript</title>
+        <title>control flujo if Script de JavaScript</title>
         <script>
-            alert("Hola mundo");
+           var cadena = prompt("Escribe una cadena");
+           alert("Longitud de la cadena"+ cadena.length);
+           alert("Mayusculas es:" + cadena.toUpperCase());
+           alert("Minusculas es: " + cadena.toLowerCase());
+           alert("La pscicion 1 es " + cadena.charAt(1));
+
+           var caracter = prompt ("Escriba el caracter a buscar");
+           alert("la poscicion en la que est la letra" + cadena.indexOf(caracter));
+
+           alert ("La poscicion en la ultima cadena es " + cadena.lastIndexOf(caracter));
+
+           alert ("porcion:" + cadena.substr(1,(cadena.length)- 1));
+
+           console.log(cadena.split(""));
         </script>
     </head>
     <body>
